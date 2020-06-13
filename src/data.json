@@ -1,0 +1,46 @@
+[
+  {
+    "static": true,
+    "config": {
+      "field": "id",
+      "text": "Number"
+    }
+  },
+  {
+    "static": true,
+    "config": {
+      "field": "name",
+      "text": "Title"
+    }
+  },
+  {
+    "config": {
+      "field": "attr-1",
+      "text": "Attribute-01"
+    }
+  },
+  {
+    "config": {
+      "field": "attr-2",
+      "text": "Attribute-02"
+    }
+  },
+  {
+    "config": {
+      "field": "attr-3",
+      "text": "Attribute-03"
+    }
+  },
+  {
+    "config": {
+      "field": "attr-4",
+      "text": "Attribute-04"
+    }
+  },
+  {
+    "config": {
+      "field": "attr-5",
+      "text": "Attribute-05"
+    }
+  }
+]
